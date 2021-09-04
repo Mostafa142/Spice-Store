@@ -1,3 +1,3 @@
 # Spice-Store
 Spice Store Project (HTML-CSS-Bootstrap)
-https://spice-store.netlify.app/
+https://mostafa142.github.io/Spice-Store/
