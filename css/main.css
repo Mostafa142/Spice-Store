@@ -44,6 +44,22 @@ body {
   background-color: #4e0d01;
 }
 /* End nav bar  */
+/* Start Small Banner  */
+.small_banner {
+  display: none;
+}
+.small_banner img {
+  width: 100%;
+}
+@media (max-width: 990px) {
+  .small_banner {
+    display: block;
+  }
+  .carousel {
+    display: none;
+  }
+}
+/* End Small Banner  */
 /* Start Top Categories */
 .x2 {
   margin-top: 50px;
